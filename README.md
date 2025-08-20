@@ -348,9 +348,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: support@yourcompany.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/fraud-detection-pipeline/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/fraud-detection-pipeline/wiki)
+- 📧 **Email**: skathirselvan12@gmail.com
+- 💬 **Issues**: [GitHub Issues]([https://github.com/yourusername/fraud-detection-pipeline/issues](https://github.com/kathirselvan-s))
 - 💼 **Enterprise Support**: Available for production deployments
 
 ---
